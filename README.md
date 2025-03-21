@@ -1,4 +1,4 @@
-# Data Structures Demo: Set Comprehensions and `zip()` Function
+# Week 2 Assignment: Set Comprehensions and `zip()` Function
 
 This project demonstrates two Python concepts:
 1. **Set Comprehensions**
